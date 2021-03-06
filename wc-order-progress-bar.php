@@ -7,9 +7,6 @@
  * Author: AppKnitters Co.
  * Author URI: http://www.appknitters.com/
  * Tested up to: 5.0.2
- *
- * Text Domain: woocommerce_order_progressbar
- * Domain Path: /lang/
  * 
  */
 if (!defined('ABSPATH'))
